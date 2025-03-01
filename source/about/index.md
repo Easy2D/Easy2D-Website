@@ -3,19 +3,19 @@ title: 关于
 icon: info circle
 type: "about"
 coders:
-- name: Nomango
+- name: Lavi
   avatar: /assets/images/avatar/Nomango.jpg
   role: 引擎开发
   join_date: 2016.12
   description: 非游戏从业，单纯用爱发电
-  blog: Nomango 的博客
-  blog_url: https://nomx.dev
+  blog: Lavi 的博客
+  blog_url: https://lavliet.me
 - name: 益文友 Allen
   avatar: /assets/images/avatar/Allen.jpg
   role: 引擎测试
   join_date: 2017.8
   description: 热爱编程的中学生，写代码速度一般，但是扯淡速度全宇宙第一。
-  blog: Allen的博客
+  blog: Allen 的博客
   blog_url: http://blog.csdn.net/yiwenyoucod
 ---
 
